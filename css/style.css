@@ -291,6 +291,7 @@ p {
 	color: white;
 	text-transform: uppercase;
 	text-align: center;
+	margin-left: 30px;
 }
 
 .box-link__span {
